@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VC-App-WebRTC/static/css/main.073c9b0a.css",
+    "main.js": "/VC-App-WebRTC/static/js/main.f416829f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/VC-App-WebRTC/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/VC-App-WebRTC/index.html",
+    "main.073c9b0a.css.map": "/VC-App-WebRTC/static/css/main.073c9b0a.css.map",
+    "main.f416829f.js.map": "/VC-App-WebRTC/static/js/main.f416829f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/VC-App-WebRTC/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f416829f.js"
+  ]
+}
